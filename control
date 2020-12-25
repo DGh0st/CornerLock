@@ -1,0 +1,9 @@
+Package: com.dgh0st.cornerlock
+Name: CornerLock
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Lock device by swiping in from top left corner.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
